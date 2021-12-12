@@ -6,7 +6,4 @@
 
 3 **Inséré dans votre server.cfg**, `start esx_society`
 
-**Crée par OXYDE#0001**
-
-
 **Voila vous avez placé des compte banque des job bravo !**
